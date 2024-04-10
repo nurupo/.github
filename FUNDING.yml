@@ -1,6 +1,6 @@
 github: nurupo
 custom:
-  - https://github.com/nurupo/donate/blob/master/README.md
+  - https://github.com/nurupo/donate
     # PayPal donation button is superior to a paypal.me link because it
     # additionally:
     #   - accepts credit cards without a need to create a PayPal account
